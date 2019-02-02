@@ -4,4 +4,6 @@ def fn(x,y):
 	return x * 10 + y
 l1 = [1,3,5,7,9]
 
+
+
 reduce(fn,l1)
